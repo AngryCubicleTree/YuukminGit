@@ -1,0 +1,3 @@
+The secret of 2.5D wizardry lies within...
+Messy programming + confusing settings may exist
+DM me on discord regarding further info on this magical Redneck-Engineered master pi
