@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\journey\\absolutecinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\journey\\absolutecinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\journey\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\journey\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\yuukaitemsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\yuukaitemsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\cirno\\cirno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\cirno\\cirno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\fairies\\fairycombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\fairies\\fairycombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\fairies\\fairy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\fairies\\fairy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\enemies\\spirit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\spirit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|c:\\users\\kim a hwi\\desktop\\jam!\\gameexpirement\\yuukmin\\assets\\yuuka\\uis\\dfxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\uis\\dfxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\enemies\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|c:\\users\\kim a hwi\\desktop\\jam!\\gameexpirement\\yuukmin\\assets\\yuuka\\uis\\damageindi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\uis\\damageindi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\sounds\\sfxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\sounds\\sfxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\suwa\\suwak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\suwa\\suwak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\carryables\\gap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\carryables\\gap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\journey\\yuukajourneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\journey\\yuukajourneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\journey\\areatransitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\journey\\areatransitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\yuukafairymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\yuukafairymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\backgrounds\\magicflowers\\fairyflowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\backgrounds\\magicflowers\\fairyflowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\yuukamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\yuukamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\yuukaanims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\yuukaanims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\cursor\\cursorvisuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\cursor\\cursorvisuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\journey\\dialoguecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\journey\\dialoguecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\save\\achievementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\save\\achievementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\cirno\\cirnoanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\cirno\\cirnoanima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\save\\achievdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\save\\achievdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\yuuka\\uis\\cheatcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\yuuka\\uis\\cheatcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\carryables\\carryable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\carryables\\carryable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\backgrounds\\particle\\pfxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\backgrounds\\particle\\pfxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\2dthings\\zsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\2dthings\\zsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\backgrounds\\particle\\zsorterparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\backgrounds\\particle\\zsorterparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\assets\\backgrounds\\flowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D16E0-F7EA-2B94-75D0-E24E6E8BDAF2}|Assembly-CSharp.csproj|solutionrelative:assets\\backgrounds\\flowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DamageIndi.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\UIs\\DamageIndi.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\UIs\\DamageIndi.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\UIs\\DamageIndi.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\UIs\\DamageIndi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:49:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DFXSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\UIs\\DFXSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\UIs\\DFXSpawner.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\UIs\\DFXSpawner.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\UIs\\DFXSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:48:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cirno.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Cirno\\Cirno.cs",
+              "RelativeDocumentMoniker": "Assets\\Cirno\\Cirno.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Cirno\\Cirno.cs",
+              "RelativeToolTip": "Assets\\Cirno\\Cirno.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwFIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:49:33.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbsoluteCinema.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\AbsoluteCinema.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\Journey\\AbsoluteCinema.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\AbsoluteCinema.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\Journey\\AbsoluteCinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:09:59.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\Journey\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\Journey\\TutorialManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:02:06.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Enemies\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\EnemyBullet.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Enemies\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\Enemies\\EnemyBullet.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:50:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FairyCombat.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Fairies\\FairyCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Fairies\\FairyCombat.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Fairies\\FairyCombat.cs",
+              "RelativeToolTip": "Assets\\Fairies\\FairyCombat.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:57:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spirit.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Enemies\\Spirit.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Spirit.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Enemies\\Spirit.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Spirit.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:05:34.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YuukaItemsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaItemsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\YuukaItemsManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaItemsManager.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\YuukaItemsManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwC8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:38:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fairy.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Fairies\\Fairy.cs",
+              "RelativeDocumentMoniker": "Assets\\Fairies\\Fairy.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Fairies\\Fairy.cs",
+              "RelativeToolTip": "Assets\\Fairies\\Fairy.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:26:11.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YuukaJourneyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\YuukaJourneyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\Journey\\YuukaJourneyManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\YuukaJourneyManager.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\Journey\\YuukaJourneyManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:07:51.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gap.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Carryables\\Gap.cs",
+              "RelativeDocumentMoniker": "Assets\\Carryables\\Gap.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Carryables\\Gap.cs",
+              "RelativeToolTip": "Assets\\Carryables\\Gap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:35:07.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YuukaMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\YuukaMovement.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaMovement.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\YuukaMovement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:49:16.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YuukaAnims.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaAnims.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\YuukaAnims.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaAnims.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\YuukaAnims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:31:02.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PFXSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\Particle\\PFXSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Backgrounds\\Particle\\PFXSpawner.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\Particle\\PFXSpawner.cs",
+              "RelativeToolTip": "Assets\\Backgrounds\\Particle\\PFXSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:19:44.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FairyFlowers.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\MagicFlowers\\FairyFlowers.cs",
+              "RelativeDocumentMoniker": "Assets\\Backgrounds\\MagicFlowers\\FairyFlowers.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\MagicFlowers\\FairyFlowers.cs",
+              "RelativeToolTip": "Assets\\Backgrounds\\MagicFlowers\\FairyFlowers.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:35:44.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CursorVisuals.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Cursor\\CursorVisuals.cs",
+              "RelativeDocumentMoniker": "Assets\\Cursor\\CursorVisuals.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Cursor\\CursorVisuals.cs",
+              "RelativeToolTip": "Assets\\Cursor\\CursorVisuals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:30:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Title\\TitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Title\\TitleManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Title\\TitleManager.cs",
+              "RelativeToolTip": "Assets\\Title\\TitleManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:38:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AreaTransitor.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\AreaTransitor.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\Journey\\AreaTransitor.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\AreaTransitor.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\Journey\\AreaTransitor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:08:58.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Suwak.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\SUWA\\Suwak.cs",
+              "RelativeDocumentMoniker": "Assets\\SUWA\\Suwak.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\SUWA\\Suwak.cs",
+              "RelativeToolTip": "Assets\\SUWA\\Suwak.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:12:20.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SFXSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Sounds\\SFXSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Sounds\\SFXSpawner.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Sounds\\SFXSpawner.cs",
+              "RelativeToolTip": "Assets\\Sounds\\SFXSpawner.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:44:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YuukaFairyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaFairyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\YuukaFairyManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\YuukaFairyManager.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\YuukaFairyManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:14:44.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Save\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Save\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Save\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Save\\SaveManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:12:39.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AchievementManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Save\\AchievementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Save\\AchievementManager.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Save\\AchievementManager.cs",
+              "RelativeToolTip": "Assets\\Save\\AchievementManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:34:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CirnoAnima.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Cirno\\CirnoAnima.cs",
+              "RelativeDocumentMoniker": "Assets\\Cirno\\CirnoAnima.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Cirno\\CirnoAnima.cs",
+              "RelativeToolTip": "Assets\\Cirno\\CirnoAnima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:01:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DialogueContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\DialogueContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\Journey\\DialogueContainer.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\Journey\\DialogueContainer.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\Journey\\DialogueContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:34:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ZSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\2DThings\\ZSorter.cs",
+              "RelativeDocumentMoniker": "Assets\\2DThings\\ZSorter.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\2DThings\\ZSorter.cs",
+              "RelativeToolTip": "Assets\\2DThings\\ZSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:12:31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AchievData.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Save\\AchievData.cs",
+              "RelativeDocumentMoniker": "Assets\\Save\\AchievData.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Save\\AchievData.cs",
+              "RelativeToolTip": "Assets\\Save\\AchievData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:20:06.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Carryable.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Carryables\\Carryable.cs",
+              "RelativeDocumentMoniker": "Assets\\Carryables\\Carryable.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Carryables\\Carryable.cs",
+              "RelativeToolTip": "Assets\\Carryables\\Carryable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:33:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CheatCodes.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\UIs\\CheatCodes.cs",
+              "RelativeDocumentMoniker": "Assets\\Yuuka\\UIs\\CheatCodes.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Yuuka\\UIs\\CheatCodes.cs",
+              "RelativeToolTip": "Assets\\Yuuka\\UIs\\CheatCodes.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:50:19.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ZSorterParticle.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\Particle\\ZSorterParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Backgrounds\\Particle\\ZSorterParticle.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\Particle\\ZSorterParticle.cs",
+              "RelativeToolTip": "Assets\\Backgrounds\\Particle\\ZSorterParticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:29:12.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Flowers.cs",
+              "DocumentMoniker": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\Flowers.cs",
+              "RelativeDocumentMoniker": "Assets\\Backgrounds\\Flowers.cs",
+              "ToolTip": "C:\\Users\\Kim A Hwi\\Desktop\\Jam!\\GameExpirement\\Yuukmin\\Assets\\Backgrounds\\Flowers.cs",
+              "RelativeToolTip": "Assets\\Backgrounds\\Flowers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:21:22.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
